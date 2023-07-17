@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - You may reach me at harshabbeth@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
 
-## Java Projects
-
+## 2021
+[Hangman Game](https://github.com/HarshaBeth/Java-Hangman-Game), using Java
 
