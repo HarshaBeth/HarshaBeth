@@ -1,4 +1,4 @@
-# saba7 al ward 👋
+# GREETINGS! 👋
 
 <!--
 **HarshaBeth/HarshaBeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Welcome to my profile, my name is Harsha!
+- An enthusiastic and imaginative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai. Substantial academic achievements and a fun socializer. Keen on learning from all aspects with a willingness for continuous development.
+- I'm interested in AI, front-end development, and much more!
+- You may reach me at harshabbeth@gmail.com
+- Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
+
+## Java Projects
+
+
