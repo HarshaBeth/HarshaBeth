@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 
 ## 2022
-[Vending Machine](https://github.com/HarshaBeth/Vending-Machine), using Java and Object-Oriented Programming
+- [Vending Machine](https://github.com/HarshaBeth/Vending-Machine), using Java and Object-Oriented Programming
 
 ## 2021
-[Hangman Game](https://github.com/HarshaBeth/Java-Hangman-Game), using Java
+- [Hangman Game](https://github.com/HarshaBeth/Java-Hangman-Game), using Java
+- [Simple Calculator](https://github.com/HarshaBeth/Simple-Calculator), using Java
 
