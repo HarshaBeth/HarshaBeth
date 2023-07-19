@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
 
 
+## 2023
+- [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
+
 ## 2022
 - [Vending Machine](https://github.com/HarshaBeth/Vending-Machine), using Java and Object-Oriented Programming
 
