@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - [Netflix Movie List](https://github.com/HarshaBeth/Netflix-Project), using C++, created utlizing a linked list data structure
 - [Vending Machine](https://github.com/HarshaBeth/Vending-Machine), using Java and Object-Oriented Programming
 - [Hangman Game](https://github.com/HarshaBeth/Python-Hangman-Game), using Python
+- [Cows and Bulls Game](https://github.com/HarshaBeth/Cows-and-Bulls-Game), using Python
 
 ## 2021
 - [School Dashboard System](https://github.com/HarshaBeth/School-Dashboard), using Java
