@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
 
 ## 2022
+- [Netflix Movie List](https://github.com/HarshaBeth/Netflix-Project), using C++, created utlizing a linked list data structure
 - [Vending Machine](https://github.com/HarshaBeth/Vending-Machine), using Java and Object-Oriented Programming
 
 ## 2021
