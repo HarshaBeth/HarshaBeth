@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Welcome to my profile, my name is Harsha!
 - An enthusiastic and imaginative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai. Substantial academic achievements and a fun socializer. Keen on learning from all aspects with a willingness for continuous development.
-- Knowledgeable in Java, C++, Python, HTML/CSS, and tailwind CSS
+- Knowledgeable in Java, C++, Python, HTML/CSS, React.js and tailwind CSS
 - I'm interested in AI, front-end development, and much more!
 - You may reach me at harshabbeth@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 2023
 - [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
-- [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/) (work in progress), using React and tailwindCSS
+- [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/) (work in progress), using React and tailwind CSS
 
 ## 2022
 - [Netflix Movie List](https://github.com/HarshaBeth/Netflix-Project), using C++, created utilizing a linked list data structure
