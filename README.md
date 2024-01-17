@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 2023
 - [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
-- [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/) (work in progress), using React and tailwind CSS
+- [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/) (work in progress), using React and tailwind CSS (mobile responsive)
 
 ## 2022
 - [Netflix Movie List](https://github.com/HarshaBeth/Netflix-Project), using C++, created utilizing a linked list data structure
