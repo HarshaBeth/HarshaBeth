@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - You may reach me at harshabbeth@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
 
+
 ## 2024
 - [Rock-Paper-Scissors Game](https://github.com/HarshaBeth/Rock_Paper_Scissors-Game), using HTML, CSS, Javascript (mobile responsive)
 
