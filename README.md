@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - Welcome to my profile, my name is Harsha!
 - An enthusiastic and imaginative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai. Substantial academic achievements and a fun socializer. Keen on learning from all aspects with a willingness for continuous development.
-- Knowledgeable in Java, C++, Python, HTML/CSS, React.js and tailwind CSS
-- I'm interested in AI, front-end development, and much more!
+- Knowledgeable in Java, C++, Python, HTML/CSS, Javascript, React.js and tailwind CSS
+- I'm interested in AI, web development, and much more!
 - You may reach me at harshabbeth@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
 
