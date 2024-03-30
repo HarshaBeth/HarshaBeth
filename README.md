@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Welcome to my profile, my name is Harsha!
+- Welcome to my profile, my name is Harsha Beth!
 - An enthusiastic and imaginative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai. Substantial academic achievements and a fun socializer. Keen on learning from all aspects with a willingness for continuous development.
 - Knowledgeable in Java, C++, Python, HTML/CSS, Javascript, React.js and tailwind CSS
 - I'm interested in AI, web development, and much more!
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ## 2024
 - [Rock-Paper-Scissors Game](https://github.com/HarshaBeth/Rock_Paper_Scissors-Game), using HTML, CSS, Javascript (mobile responsive)
+- [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis), using Python's NLP libraries nltk and pandas,  openAI, and Tkinter GUI
 
 ## 2023
 - [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
