@@ -24,12 +24,14 @@ Here are some ideas to get you started:
 
 
 ## 2024
-- [Rock-Paper-Scissors Game](https://github.com/HarshaBeth/Rock_Paper_Scissors-Game), using HTML, CSS, Javascript (mobile responsive)
+- [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification), using Python, sklearn, pandas, matplotlib
+- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction), using Python, sklearn, pandas, numpy, matplotlib
 - [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis), using Python's NLP libraries nltk and pandas,  openAI, and Tkinter GUI
+- [Rock-Paper-Scissors Game](https://github.com/HarshaBeth/Rock_Paper_Scissors-Game), using HTML, CSS, Javascript (mobile responsive)
 
 ## 2023
 - [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
-- [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/) (work in progress), using React and tailwind CSS (mobile responsive)
+- [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/), using React and tailwind CSS (mobile responsive)
 
 ## 2022
 - [Netflix Movie List](https://github.com/HarshaBeth/Netflix-Project), using C++, created utilizing a linked list data structure
