@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Welcome to my profile, my name is Harsha B. Beth!
-- An enthusiastic and imaginative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai. Substantial academic achievements and a fun socializer. Keen on learning from all aspects with a willingness for continuous development.
-- Knowledgeable in Java, C++, Python, HTML/CSS, Javascript, React.js and tailwind CSS
-- I'm interested in AI, web development, and much more!
+- Welcome to my profile, my name is Harsha Basavaraj Beth!
+- An enthusiastic and creative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai.A fun socializer and keen on learning from all aspects with a willingness for continuous development.
+- Knowledgeable in Java, C++, Python, HTML/CSS, Javascript, Next.js and Tailwind CSS
+- I'm interested in AI, deep learning, web development, and much more!
 - You may reach me at harshabbeth@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
 
 
 ## 2024
-- [CNN Model: Binary Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs), using Python, Pandas, Numpy, os, Tensorflow, Matplotlib
+- [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction), using Python, Tensorflow, Matplotlib, Numpy, Pandas
+- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification), using Python, sklearn, pandas, matplotlib
 - [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction), using Python, sklearn, pandas, numpy, matplotlib
 - [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis), using Python's NLP libraries nltk and pandas,  openAI API, and Tkinter GUI
