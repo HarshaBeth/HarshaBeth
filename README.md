@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 
 
 ## 2024
+- [RNN Model - Asset Prediction](https://github.com/HarshaBeth/RNN-asset-prediction), using  Python, Tensorflow, Sklearn, Matplotlib, Numpy, Pandas
 - [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification), using Python, sklearn, pandas, matplotlib
 - [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction), using Python, sklearn, pandas, numpy, matplotlib
-- [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis), using Python's NLP libraries nltk and pandas,  openAI API, and Tkinter GUI
 
 
 ## 2023
+- [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis), using Python's NLP libraries nltk and pandas,  openAI API, and Tkinter GUI
 - [MIPS Datapath Simulator](https://github.com/HarshaBeth/MIPS-Datapath-Simulator/tree/main), using Java, Object-Oriented Programming, and GUI
 - [Restaurant Website](https://restaurant-website-harshabeth.vercel.app/), using React and tailwind CSS (mobile responsive)
 - [Rock-Paper-Scissors Game](https://github.com/HarshaBeth/Rock_Paper_Scissors-Game), using HTML, CSS, Javascript (mobile responsive)
