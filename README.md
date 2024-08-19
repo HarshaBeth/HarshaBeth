@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - Welcome to my profile, my name is Harsha Basavaraj Beth!
-- An enthusiastic and creative undergraduate student studying Computer Science (Artificial Intelligence) at the British University in Dubai.A fun socializer and keen on learning from all aspects with a willingness for continuous development.
+- An enthusiastic and deeply dedicated student in the cutting-edge field of artificial intelligence. Love to learn and committed to continuous development. 
 - Knowledgeable in Java, C++, Python, HTML/CSS, Javascript, Next.js and Tailwind CSS
-- I'm interested in AI, deep learning, web development, and much more!
+- I'm interested in AI, deep learning, web development, and more!
 - You may reach me at harshabbeth@gmail.com
 - Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
 
