@@ -16,7 +16,10 @@
 ## 2024
 - [RNN Model - Asset Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-  Sklearn, Matplotlib, Numpy, Pandas
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 - [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification), using Python, sklearn, pandas, matplotlib
