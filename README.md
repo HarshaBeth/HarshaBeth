@@ -7,11 +7,16 @@
 🎯 I'm interested in collaborating in AI, deep learning, web development, and more! <br><br>
 🚀 Proficient in Java, C++, Python, HTML/CSS, Javascript, Next.js and Tailwind CSS <br><br>
 📩 You may reach me at: harshabbeth@gmail.com <br><br>
-[<img style="margin-right: 30px" src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' height=30>](https://www.linkedin.com/in/harsha-basavaraj-beth/)
-  
+✨ Connect with me: 
+
+&nbsp; &nbsp; &nbsp; [<img style="margin-right: 30px" src='https://github.com/user-attachments/assets/67b14c88-95da-4545-93fd-326cccd90cc9' height=25>](https://www.linkedin.com/in/harsha-basavaraj-beth/)
+
+
 
 ## 2024
-- [RNN Model - Asset Prediction](https://github.com/HarshaBeth/RNN-asset-prediction), using  Python, Tensorflow, Sklearn, Matplotlib, Numpy, Pandas
+- [RNN Model - Asset Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) <br> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+  Sklearn, Matplotlib, Numpy, Pandas
 - [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs), using Python, Tensorflow, Matplotlib, Numpy, Pandas
 - [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification), using Python, sklearn, pandas, matplotlib
