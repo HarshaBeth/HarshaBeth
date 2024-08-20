@@ -1,27 +1,14 @@
-# HELLO WORLD! 👋
 
-<!--
-**HarshaBeth/HarshaBeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Welcome](https://github.com/user-attachments/assets/761f487c-3fdd-4e1b-a171-371a59760b78)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- Welcome to my profile, my name is Harsha Basavaraj Beth!
-- An enthusiastic and deeply dedicated student in the cutting-edge field of artificial intelligence. Love to learn and committed to continuous development. 
-- Knowledgeable in Java, C++, Python, HTML/CSS, Javascript, Next.js and Tailwind CSS
-- I'm interested in AI, deep learning, web development, and more!
-- You may reach me at harshabbeth@gmail.com
-- Here is my [LinkedIn](https://www.linkedin.com/in/harsha-beth-6b376123a/)
-
+# HELLO WORLD!👋
+  
+🙋‍♂️ Welcome to my profile, my name is Harsha Basavaraj Beth! <br><br>
+🎯 I'm interested in collaborating in AI, deep learning, web development, and more! <br><br>
+🚀 Proficient in Java, C++, Python, HTML/CSS, Javascript, Next.js and Tailwind CSS <br><br>
+📩 You may reach me at: harshabbeth@gmail.com <br><br>
+[<img style="margin-right: 30px" src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' height=30>](https://www.linkedin.com/in/harsha-basavaraj-beth/)
+  
 
 ## 2024
 - [RNN Model - Asset Prediction](https://github.com/HarshaBeth/RNN-asset-prediction), using  Python, Tensorflow, Sklearn, Matplotlib, Numpy, Pandas
