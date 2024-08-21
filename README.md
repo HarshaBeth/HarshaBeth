@@ -15,7 +15,7 @@
 
 ## 2024
 - [RNN Model - Stocks/Assets Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) <br>
-  **Built using:** <br>
+  **Technologies used:** <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -23,20 +23,20 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
   
-- [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) <br>
-  **Built using:** <br>
+- [CNN Model: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) <br>
+  **Technologies used:** <br>
   · Python · Tensorflow · Matplotlib · Numpy · Pandas
   
 - [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) <br>
-  **Built using:** <br>
+  **Technologies used:** <br>
   · Python · Tensorflow · Matplotlib · Numpy · Pandas
   
 - [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification) <br>
-  **Built using:** <br>
+  **Technologies used:** <br>
   · Python · scikit-learn · Matplotlib · Pandas
   
 - [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) <br>
-  **Built using:** <br>
+  **Technologies used:** <br>
   · Python · scikit-learn · Matplotlib · Numpy · Pandas
 
 
