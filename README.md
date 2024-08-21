@@ -24,10 +24,25 @@
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
   
-- [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction), using Python, Tensorflow, Matplotlib, Numpy, Pandas
-- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs), using Python, Tensorflow, Matplotlib, Numpy, Pandas
-- [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification), using Python, sklearn, pandas, matplotlib
-- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction), using Python, sklearn, pandas, numpy, matplotlib
+- [CNN Model Categorical: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction)
+
+  **Built using:** <br>
+  · Python · Tensorflow · Matplotlib · Numpy · Pandas
+  
+- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs)
+
+  **Built using:** <br>
+  · Python · Tensorflow · Matplotlib · Numpy · Pandas
+  
+- [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification)
+
+  **Built using:** <br>
+  · Python · scikit-learn · Matplotlib · Pandas
+  
+- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction)
+
+  **Built using:** <br>
+  · Python · scikit-learn · Matplotlib · Numpy · Pandas
 
 
 ## 2023
