@@ -12,8 +12,7 @@
 &nbsp; &nbsp; &nbsp; [<img style="margin-right: 30px" src='https://github.com/user-attachments/assets/67b14c88-95da-4545-93fd-326cccd90cc9' height=25>](https://www.linkedin.com/in/harsha-basavaraj-beth/)
 
 
-
-## 2024
+## AI/ML Projects
 - [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_  <br>
   A GAN model built to generate realistic images of handwritten digits, leveraging the adversarial process between a generator and a discriminator to refine the quality produced.
   
@@ -33,6 +32,15 @@
   
 - [ML: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Numpy · Pandas_  <br>
   A Machine Learning model tasked to determine the price of real estate properties based on location, size, average prices, and more. The ML model has the potential to assist individuals and collectives in financial decisions.
+
+
+## 2024
+- [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_
+- [RNN Model - Stocks/Assets Forecast](https://github.com/HarshaBeth/RNN-asset-prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Scikit-learn · Matplotlib · Numpy · Pandas_
+- [CNN Model: Vehicle Type Detection](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_
+- [CNN Model: Cats/Dogs Discriminator](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_
+- [ML: Classification - AI powered assistant](https://github.com/HarshaBeth/Machine-Learning-Classification) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Pandas_
+- [ML: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Numpy · Pandas_
   
 
 
