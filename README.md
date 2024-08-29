@@ -14,32 +14,27 @@
 
 
 ## 2024
-- [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_  <br>
+- [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_  <br>
   A GAN model built to generate realistic images of handwritten digits, leveraging the adversarial process between a generator and a discriminator to refine the quality produced.
   
 
-- [RNN Model - Stocks/Assets Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) <br>
-  **Technologies used:** <br>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+- [RNN Model - Stocks/Assets Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Scikit-learn · Matplotlib · Numpy · Pandas_  <br>
+  An RNN model developed to analyze sequential data patterns over time and accurately predict trends of stocks and assets. Thereby, potentially reducing financial risks through enhanced predictions.
+
   
-- [CNN Model: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) <br>
+- [CNN Model: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   **Technologies used:** <br>
   · Python · Tensorflow · Matplotlib · Numpy · Pandas
   
-- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) <br>
+- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   **Technologies used:** <br>
   · Python · Tensorflow · Matplotlib · Numpy · Pandas
   
-- [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification) <br>
+- [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   **Technologies used:** <br>
   · Python · scikit-learn · Matplotlib · Pandas
   
-- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) <br>
+- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   **Technologies used:** <br>
   · Python · scikit-learn · Matplotlib · Numpy · Pandas
 
