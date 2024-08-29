@@ -14,6 +14,10 @@
 
 
 ## 2024
+- [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_  <br>
+  A GAN model built to generate realistic images of handwritten digits, leveraging the adversarial process between a generator and a discriminator to refine the quality produced.
+  
+
 - [RNN Model - Stocks/Assets Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) <br>
   **Technologies used:** <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
