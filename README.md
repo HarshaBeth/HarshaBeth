@@ -25,7 +25,7 @@
 - [CNN Model: Vehicle Type Detection](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_   <br>
   Vehicles on authorized roads can be stopped or promoted using this CNN model. It accurately analyses the features of the vehicles and determines the type.
   
-- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_   <br>
+- [CNN Model: Cats/Dogs Discriminator](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_   <br>
 
   
 - [ML: Classification - AI powered assistant](https://github.com/HarshaBeth/Machine-Learning-Classification) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Pandas_  <br>
