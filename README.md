@@ -22,20 +22,19 @@
   An RNN model developed to analyze sequential data patterns over time and accurately predict trends of stocks and assets. Thereby, potentially reducing financial risks through enhanced predictions.
 
   
-- [CNN Model: Vehicle Type Detection](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_<br>
+- [CNN Model: Vehicle Type Detection](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_   <br>
   Vehicles on authorized roads can be stopped or promoted using this CNN model. It accurately analyses the features of the vehicles and determines the type.
   
-- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  **Technologies used:** <br>
-  · Python · Tensorflow · Matplotlib · Numpy · Pandas
+- [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_   <br>
+
   
 - [Machine Learning: Classification](https://github.com/HarshaBeth/Machine-Learning-Classification) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   **Technologies used:** <br>
   · Python · scikit-learn · Matplotlib · Pandas
   
-- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  **Technologies used:** <br>
-  · Python · scikit-learn · Matplotlib · Numpy · Pandas
+- [Machine Learning: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · scikit-learn · Matplotlib · Numpy · Pandas_  <br>
+  A Machine Learning model tasked to determine the price of real estate properties based on location, size, average prices, and more. The ML model has the potential to assist individuals and collectives in financial decisions.
+  
 
 
 ## 2023
