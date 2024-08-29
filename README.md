@@ -18,13 +18,12 @@
   A GAN model built to generate realistic images of handwritten digits, leveraging the adversarial process between a generator and a discriminator to refine the quality produced.
   
 
-- [RNN Model - Stocks/Assets Prediction](https://github.com/HarshaBeth/RNN-asset-prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Scikit-learn · Matplotlib · Numpy · Pandas_  <br>
+- [RNN Model - Stocks/Assets Forecast](https://github.com/HarshaBeth/RNN-asset-prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Scikit-learn · Matplotlib · Numpy · Pandas_  <br>
   An RNN model developed to analyze sequential data patterns over time and accurately predict trends of stocks and assets. Thereby, potentially reducing financial risks through enhanced predictions.
 
   
-- [CNN Model: Vehicle Type Prediction](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  **Technologies used:** <br>
-  · Python · Tensorflow · Matplotlib · Numpy · Pandas
+- [CNN Model: Vehicle Type Detection](https://github.com/HarshaBeth/CNN-Vehicle-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_<br>
+  Vehicles on authorized roads can be stopped or promoted using this CNN model. It accurately analyses the features of the vehicles and determines the type.
   
 - [CNN Model: Cats vs Dogs](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
   **Technologies used:** <br>
