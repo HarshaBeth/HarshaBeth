@@ -12,7 +12,7 @@
 &nbsp; &nbsp; &nbsp; [<img style="margin-right: 30px" src='https://github.com/user-attachments/assets/67b14c88-95da-4545-93fd-326cccd90cc9' height=25>](https://www.linkedin.com/in/harsha-basavaraj-beth/)
 
 
-## AI/ML Projects
+## 🤖 AI/ML Projects
 - [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_  <br>
   A GAN model built to generate realistic images of handwritten digits, leveraging the adversarial process between a generator and a discriminator to refine the quality produced.
   
