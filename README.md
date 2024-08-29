@@ -26,14 +26,13 @@
   Vehicles on authorized roads can be stopped or promoted using this CNN model. It accurately analyses the features of the vehicles and determines the type.
   
 - [CNN Model: Cats/Dogs Discriminator](https://github.com/HarshaBeth/Cats-VS-Dogs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy · Pandas_   <br>
-
+  Has the ability to differentiate between cats and dogs based on its analysis of the image features.
   
 - [ML: Classification - AI powered assistant](https://github.com/HarshaBeth/Machine-Learning-Classification) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Pandas_  <br>
   With the help of the Machine Learning model, it can predict the number of rooms attainable based on the users' preferences and constraints.
   
 - [ML: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Numpy · Pandas_  <br>
-  A Machine Learning model tasked to determine the price of real estate properties based on location, size, average prices, and more. The ML model has the potential to assist individuals and collectives in   
-  financial decisions.
+  A Machine Learning model tasked to determine the price of real estate properties based on location, size, average prices, and more. The ML model has the potential to assist individuals and collectives in financial decisions.
   
 
 
