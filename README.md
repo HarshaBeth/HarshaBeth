@@ -33,6 +33,8 @@
 - [ML: Regression - Price Prediciton](https://github.com/HarshaBeth/Machine-Learning-Price-Prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Scikit-learn · Matplotlib · Numpy · Pandas_  <br>
   A Machine Learning model tasked to determine the price of real estate properties based on location, size, average prices, and more. The ML model has the potential to assist individuals and collectives in financial decisions.
 
+- [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · NLTK · Pandas · OpenAI API · Tkinter GUI_  <br>
+  A model that analyses textual features to predict the emotion of the user from their comments, furthermore, a rating is given to the comment from 1 to 5 (1 meaning dissatisfied and 5 meaning happy).
 
 ## 2024
 - [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_
