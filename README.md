@@ -13,7 +13,7 @@
 https://github.com/HarshaBeth/ART-Evasion-attack-CNN
 
 ## 🤖 AI/ML Projects
-- [Adversarial Evasion Attack on CNN](https://github.com/HarshaBeth/ART-Evasion-attack-CNN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · ART · Tensorflow · Matplotlib_  <br>
+- [Adversarial Evasion Attack on AI systems](https://github.com/HarshaBeth/ART-Evasion-attack-CNN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · ART · Tensorflow · Matplotlib_  <br>
   Evasion Attacks (FGSM) made on a Convolutional Neural Network utilizing the Adversarial Robustness Toolbox (ART). This project aims to showcase the vulnerabilities of our AI systems.
 
 
