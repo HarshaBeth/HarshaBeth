@@ -10,9 +10,13 @@
 ✨ Connect with me: 
 
 &nbsp; &nbsp; &nbsp; [<img style="margin-right: 30px" src='https://github.com/user-attachments/assets/67b14c88-95da-4545-93fd-326cccd90cc9' height=25>](https://www.linkedin.com/in/harsha-basavaraj-beth/)
-
+https://github.com/HarshaBeth/ART-Evasion-attack-CNN
 
 ## 🤖 AI/ML Projects
+- [Adversarial Evasion Attack on CNN](https://github.com/HarshaBeth/ART-Evasion-attack-CNN) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · ART · Tensorflow · Matplotlib_  <br>
+  Evasion Attacks (FGSM) made on a Convolutional Neural Network utilizing the Adversarial Robustness Toolbox (ART). This project aims to showcase the vulnerabilities of our AI systems.
+
+
 - [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_  <br>
   A GAN model built to generate realistic images of handwritten digits, leveraging the adversarial process between a generator and a discriminator to refine the quality produced.
   
