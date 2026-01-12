@@ -40,6 +40,10 @@
 - [Movie Reviews Sentiment Analysis](https://github.com/HarshaBeth/Movie-Review-Sentiment-Analysis) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · NLTK · Pandas · OpenAI API · Tkinter GUI_  <br>
   A model that analyses textual features to predict the emotion of the user from their comments, furthermore, a rating is given to the comment from 1 to 5 (1 meaning dissatisfied and 5 meaning happy).
 
+## 2025
+- [Boston Residence Evaluation, ML Models](https://github.com/HarshaBeth/Boston-Area-Price-and-Crime-Prediction)
+
+
 ## 2024
 - [DCGAN Generating Handwritten Digits](https://github.com/HarshaBeth/GAN-model) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Matplotlib · Numpy_
 - [RNN Model - Stocks/Assets Forecast](https://github.com/HarshaBeth/RNN-asset-prediction) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Python · Tensorflow · Scikit-learn · Matplotlib · Numpy · Pandas_
