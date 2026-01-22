@@ -41,6 +41,7 @@
   A model that analyses textual features to predict the emotion of the user from their comments, furthermore, a rating is given to the comment from 1 to 5 (1 meaning dissatisfied and 5 meaning happy).
 
 ## 2025
+- [Deepfake Detection in Multimedia](https://github.com/HarshaBeth/deepshield-detection)
 - [Boston Residence Evaluation, ML Models](https://github.com/HarshaBeth/Boston-Area-Price-and-Crime-Prediction)
 
 
